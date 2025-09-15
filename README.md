@@ -34,9 +34,3 @@ Here are some sample queries included in the script:
 - Calculate **remaining stock after orders**
 
 ---
-
-## How to Run
-1. Open your SQL environment (PostgreSQL, MySQL, etc.).
-2. Run the script:
-   ```sql
-   \i bookstore.sql
